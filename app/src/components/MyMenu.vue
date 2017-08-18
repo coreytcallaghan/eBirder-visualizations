@@ -7,8 +7,8 @@ div
           .ui.primary.button(v-on:click="tutorial") Tutorial
         .item
           .ui.basic.button(href="#" v-scroll-to="'#attribution'") About
-  .ui.container(data-intro="Welcome to the Tree of Veggies!")
-    h1#masthead Tree of Veggies!
+  .ui.container(data-intro="Welcome to the Family Birding!")
+    h1#masthead Family Birding!
 </template>
 
 <script>

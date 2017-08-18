@@ -16,6 +16,7 @@
     "d3-scale-chromatic": "^1.1.1",
     "gh-pages": "^1.0.0",
     "intro.js": "^2.6.0",
+    "node-wikipedia": "0.0.2",
     "plotly.js": "^1.29.1",
     "pug": "^2.0.0-rc.2",
     "semantic-ui-css": "^2.2.11",
