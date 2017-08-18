@@ -36104,11 +36104,11 @@ function _interopDefault(e){return e&&"object"==typeof e&&"default"in e?e.defaul
 
 
 function preserveCamelCase(str) {
-	let isLastCharLower = false;
-	let isLastCharUpper = false;
-	let isLastLastCharUpper = false;
+	var isLastCharLower = false;
+	var isLastCharUpper = false;
+	var isLastLastCharUpper = false;
 
-	for (let i = 0; i < str.length; i++) {
+	for (var i = 0; i < str.length; i++) {
 		const c = str[i];
 
 		if (isLastCharLower && /[a-zA-Z]/.test(c) && c.toUpperCase() === c) {
@@ -37133,4 +37133,4 @@ function applyToTag (styleElement, obj) {
 
 /***/ })
 ]);
-//# sourceMappingURL=vendor.9abb61d4f40e9bd336c2.js.map
+//# sourceMappingURL=vendor.6108f79fdb11bbfe8d5d.js.map
